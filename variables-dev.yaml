@@ -1,1 +1,2 @@
-MYSQL_HOST: mysql.daws82s.life 
+# MYSQL_HOST: mysql.daws82s.life 
+MYSQL_HOST: mysql-dev.daws82s.online.daws82s.life
